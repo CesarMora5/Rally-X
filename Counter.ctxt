@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Counter\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Counter()
+comment10.params=
+comment10.target=void\ YouWin()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addScore()
+comment4.params=
+comment4.target=void\ Especial()
+comment5.params=
+comment5.target=void\ EXTRA()
+comment6.params=
+comment6.target=void\ youNextlvl()
+comment7.params=
+comment7.target=void\ newscore()
+comment8.params=
+comment8.target=void\ youNextlvl2()
+comment9.params=
+comment9.target=void\ Ultimo()
+numComments=11
